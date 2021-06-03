@@ -1,4 +1,7 @@
 #!/sbin/python
+
+#This script is made by Prateek
+
 import os
 
 # This will make a file

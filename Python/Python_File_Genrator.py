@@ -39,3 +39,7 @@ print("Your file has been created successfully!")
 print("==========================================")
 print("")
 print("")
+
+# ====================================================
+# Note: This script will only work on linux systems.
+# ===================================================

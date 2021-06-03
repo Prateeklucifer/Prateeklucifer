@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prateeklucifer
 - 👀 I’m interested in python, bash , web dev
 - 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on " nothing "
+- 📫 How to reach me " just do nothing "
 
 <!---
 Prateeklucifer/Prateeklucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

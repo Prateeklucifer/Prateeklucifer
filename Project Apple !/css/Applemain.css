@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+/* font-family: 'Noto Sans KR', sans-serif; */
+
+
+/* second */
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+/* font-family: 'Varela Round', sans-serif; */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+
+/* Navigation Bar Stuff's */
+#navbar{
+    display: flex;
+    background: rgb(163 163 163 / 70%) url(../Images/section.png);
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: bottom;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#logo img{
+    height: 36px;
+    padding: 8px 21px;
+    cursor: pointer;
+    margin: 6px 0px;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    padding: 23px 34px;
+}
+
+.navigation li{
+    list-style: none;
+}
+
+.navigation li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 3px 24px;
+    color: #303131;
+}
+
+.navigation li a:hover{
+  background-color: #707070  ;
+  border-radius: 50px;
+  color: white;
+}
+
+
+/* sections */
+/* Section First */
+.mainsec{
+    background: rgba(0, 0, 0, 0.7) url(../bg1.png);
+    height: 899px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.main{
+    display: flex;
+    height: 434px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.h-primary{
+    color: white;
+    font-size: 2.6rem;
+    padding: 9px;
+    margin: 13px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.mainsecpara{
+    color: white;
+    font-size: 1.2rem;
+    padding: 1px 3px;
+    margin: 6px 3px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+/* Section Second */
+.right{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    max-width: 1558px;
+    margin: auto;
+    height: 435px;
+}
+
+.image img{
+    height: 234px;
+    border: 2px solid black;
+    border-radius: 28px;
+    margin-top: 2px;
+}
+
+.h-secondary{
+    font-size: 2.6rem;
+    padding: 0px;
+    margin: 1px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.parasecondary{
+    font-size: 1.2rem;
+    padding: 1px 43px;
+    margin: 6px 3px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.left{
+    flex-direction: row-reverse;
+}
+
+hr{
+    width: 70%;
+    margin: auto;
+}
+
+.bgcol{
+    background-color: #E0E0E0;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    font-family: 'Varela Round', sans-serif;
+    padding: 3px;
+}

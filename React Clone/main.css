@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#NavBar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #20232a;
+    padding: 12px;
+}
+
+#logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: #61dafb;
+    cursor: pointer;
+}
+
+.img-logo {
+    height: 20px;
+}
+
+#links {
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+
+#links li a {
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: color .2s;
+    /*font-family: 'Montserrat', sans-serif;*/
+}
+
+#links li a:hover {
+    color: #61dafb;
+    transition: color .2s;
+}
+
+
+
+/* Navbar stuff up there */
+
+
+#content {
+    height: 400px;
+    width: 100%;
+    background-color: #282c34;
+
+}
+
+.color-primary {
+    color: #61dafb;
+}
+
+.main-heading {
+    font-size: 60px;
+    text-align: center;
+    padding: 40px;
+    padding-bottom: 20px;
+}
+
+.para {
+    font-size: 32px;
+    color: white;
+    padding: 33px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.travel-page {
+    padding: 35px;
+    text-align: center;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 14px;
+    padding-inline: 25px;
+    cursor: pointer;
+}
+
+.btn-1 {
+    border: none;
+    background-color: #61dafb;
+    color: black;
+    transition: background-color .2s;
+}
+
+.btn-1:hover {
+    /* transform: scale(1.2); */
+    background-color: white;
+    transition: background-color .2s;
+}
+
+.btn-2 {
+    color: #61dafb;
+    transition: color .2s;
+
+}
+
+.btn-2:hover {
+    color: white;
+    transition: color .2s;
+}
+
+/* main content up there */
+
+.main-section {
+    display: flex;
+    padding-inline: 16rem;
+    padding-top: 4rem;
+}
+
+.section {
+    padding: 34px;
+}
+
+.sec-heading {
+    font-weight: 100;
+    font-size: 23px;
+    padding-bottom: 34px;
+    color: #5c5c5c;
+}
+
+.sec-para {
+    line-height: 1.6;
+    font-size: 18px;
+    color: #3a3a3a;
+    font-weight: 400;
+
+}
+
+.line{
+    margin-inline: 200px;
+    margin-top: 65px;
+    color: #3c3c3c;
+}

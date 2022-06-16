@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Prateeklucifer
-- 👀 I’m interested in python, bash , web dev
-- 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on " nothing "
-- 📫 How to reach me " just do nothing "
-
-<!---
-Prateeklucifer/Prateeklucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Prateek
+- 👀 I’m interested in Python, Bash , Web Dev, JavaScript, C, Java, Flutter
+- 🌱 I’m currently learning React
+- 💞️ I’m not looking to collaborate on any kind of stuff
+- 📫 How to reach me? you can mail me on hackerbro2532005@gmail.com

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek
-- 👀 I’m interested in Python, Bash , Web Dev, JavaScript, C, Java, Flutter
+- 👀 I have done programming in Python, Bash , Web Dev, JavaScript, C, Java, Flutter, R, React, java
 - 🌱 I’m currently learning React
 - 💞️ I’m not looking to collaborate on any kind of stuff
 - 📫 How to reach me? you can mail me on hackerbro2532005@gmail.com

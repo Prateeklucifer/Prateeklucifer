@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek
-- 👀 I have done programming in Python, Bash , Web Dev, JavaScript, C, Java, Flutter, R, React, java
-- 🌱 I’m currently learning React
+- 👀 I have done programming in Python, Bash , Web Dev, JavaScript, C, Java, Flutter, R, React, java, Next JS
+- 🌱 I’m currently learning Next JS
 - 💞️ I’m not looking to collaborate on any kind of stuff
 - 📫 How to reach me? you can mail me on letbeastcome@gmail.com
